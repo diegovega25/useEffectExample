@@ -1,0 +1,1 @@
+export { default as EjemploUseEffect } from "./example1";
